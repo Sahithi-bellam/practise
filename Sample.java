@@ -4,7 +4,7 @@ public class Sample{
 		System.out.println("Hello Sahithi");
 		System.out.println("Hi Sahithi");
 
-		System.out.println("Hi");
+		System.out.println("Hi Sahithi");
 
 	}
 
